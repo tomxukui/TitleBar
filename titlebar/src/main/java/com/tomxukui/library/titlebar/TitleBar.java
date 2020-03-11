@@ -61,5 +61,4 @@ public class TitleBar extends FrameLayout {
         typeArray.recycle();
     }
 
-
 }
